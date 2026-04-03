@@ -39,6 +39,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ainz Scans ID",
+    "pkg": "eu.kanade.tachiyomi.extension.id.ainzscansid",
+    "apk": "tachiyomi-id.ainzscansid-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AinzScansID",
+        "lang": "id",
+        "id": "7602180477479961441",
+        "baseUrl": "https://v1.ainzscans01.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
     "apk": "tachiyomi-id.komikucc-v1.4.1.apk",
