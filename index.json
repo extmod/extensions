@@ -57,6 +57,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Komik Agregator",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikagregator",
+    "apk": "tachiyomi-id.komikagregator-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Komik Agregator",
+        "lang": "id",
+        "id": "1234567890123456789",
+        "baseUrl": "https://komik-mauve.vercel.app",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
     "apk": "tachiyomi-id.komikucc-v1.4.1.apk",
