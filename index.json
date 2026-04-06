@@ -69,7 +69,7 @@
         "name": "Komik Agregator",
         "lang": "id",
         "id": "1234567890123456789",
-        "baseUrl": "https://komik-mauve.vercel.app",
+        "baseUrl": "https://komikmix.up.railway.app",
         "versionId": 1
       }
     ]
