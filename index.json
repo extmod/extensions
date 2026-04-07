@@ -93,6 +93,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaID",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangaid",
+    "apk": "tachiyomi-id.mangaid-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaID",
+        "lang": "id",
+        "id": "2294192864319418820",
+        "baseUrl": "https://c.shinigami.asia",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: NgomikID",
     "pkg": "eu.kanade.tachiyomi.extension.id.ngomikid",
     "apk": "tachiyomi-id.ngomikid-v1.4.31.apk",
