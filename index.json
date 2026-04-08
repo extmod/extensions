@@ -69,7 +69,7 @@
         "name": "Komik Agregator",
         "lang": "id",
         "id": "1234567890123456789",
-        "baseUrl": "https://komikmix.up.railway.app",
+        "baseUrl": "https://123.komikmix.workers.dev",
         "versionId": 1
       }
     ]
