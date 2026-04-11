@@ -75,6 +75,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: KomikCast",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikcastcc",
+    "apk": "tachiyomi-id.komikcastcc-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "KomikCast",
+        "lang": "id",
+        "id": "3287189578835787457",
+        "baseUrl": "https://komik-cast.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komiku CC",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucc",
     "apk": "tachiyomi-id.komikucc-v1.4.1.apk",
