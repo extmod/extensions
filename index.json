@@ -59,10 +59,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.49.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.50.apk",
     "lang": "id",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "sources": [
       {
