@@ -57,6 +57,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kiryuu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
+    "apk": "tachiyomi-id.kiryuu-v1.4.49.apk",
+    "lang": "id",
+    "code": 49,
+    "version": "1.4.49",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kiryuu",
+        "lang": "id",
+        "id": "3639673976007021338",
+        "baseUrl": "https://v4.kiryuu.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Komik Agregator",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikagregator",
     "apk": "tachiyomi-id.komikagregator-v1.4.1.apk",
